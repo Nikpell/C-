@@ -1,0 +1,15 @@
+/home/nic/Рабочий стол/C#/Examples/Example003_Summa/bin/Debug/net6.0/Example003_Summa
+/home/nic/Рабочий стол/C#/Examples/Example003_Summa/bin/Debug/net6.0/Example003_Summa.deps.json
+/home/nic/Рабочий стол/C#/Examples/Example003_Summa/bin/Debug/net6.0/Example003_Summa.runtimeconfig.json
+/home/nic/Рабочий стол/C#/Examples/Example003_Summa/bin/Debug/net6.0/Example003_Summa.dll
+/home/nic/Рабочий стол/C#/Examples/Example003_Summa/bin/Debug/net6.0/Example003_Summa.pdb
+/home/nic/Рабочий стол/C#/Examples/Example003_Summa/obj/Debug/net6.0/Example003_Summa.csproj.AssemblyReference.cache
+/home/nic/Рабочий стол/C#/Examples/Example003_Summa/obj/Debug/net6.0/Example003_Summa.GeneratedMSBuildEditorConfig.editorconfig
+/home/nic/Рабочий стол/C#/Examples/Example003_Summa/obj/Debug/net6.0/Example003_Summa.AssemblyInfoInputs.cache
+/home/nic/Рабочий стол/C#/Examples/Example003_Summa/obj/Debug/net6.0/Example003_Summa.AssemblyInfo.cs
+/home/nic/Рабочий стол/C#/Examples/Example003_Summa/obj/Debug/net6.0/Example003_Summa.csproj.CoreCompileInputs.cache
+/home/nic/Рабочий стол/C#/Examples/Example003_Summa/obj/Debug/net6.0/Example003_Summa.dll
+/home/nic/Рабочий стол/C#/Examples/Example003_Summa/obj/Debug/net6.0/refint/Example003_Summa.dll
+/home/nic/Рабочий стол/C#/Examples/Example003_Summa/obj/Debug/net6.0/Example003_Summa.pdb
+/home/nic/Рабочий стол/C#/Examples/Example003_Summa/obj/Debug/net6.0/Example003_Summa.genruntimeconfig.cache
+/home/nic/Рабочий стол/C#/Examples/Example003_Summa/obj/Debug/net6.0/ref/Example003_Summa.dll
