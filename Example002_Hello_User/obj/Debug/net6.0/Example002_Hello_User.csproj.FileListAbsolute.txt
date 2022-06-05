@@ -1,0 +1,15 @@
+/home/nic/Рабочий стол/C#/Examples/Example002_Hello_User/bin/Debug/net6.0/Example002_Hello_User
+/home/nic/Рабочий стол/C#/Examples/Example002_Hello_User/bin/Debug/net6.0/Example002_Hello_User.deps.json
+/home/nic/Рабочий стол/C#/Examples/Example002_Hello_User/bin/Debug/net6.0/Example002_Hello_User.runtimeconfig.json
+/home/nic/Рабочий стол/C#/Examples/Example002_Hello_User/bin/Debug/net6.0/Example002_Hello_User.dll
+/home/nic/Рабочий стол/C#/Examples/Example002_Hello_User/bin/Debug/net6.0/Example002_Hello_User.pdb
+/home/nic/Рабочий стол/C#/Examples/Example002_Hello_User/obj/Debug/net6.0/Example002_Hello_User.csproj.AssemblyReference.cache
+/home/nic/Рабочий стол/C#/Examples/Example002_Hello_User/obj/Debug/net6.0/Example002_Hello_User.GeneratedMSBuildEditorConfig.editorconfig
+/home/nic/Рабочий стол/C#/Examples/Example002_Hello_User/obj/Debug/net6.0/Example002_Hello_User.AssemblyInfoInputs.cache
+/home/nic/Рабочий стол/C#/Examples/Example002_Hello_User/obj/Debug/net6.0/Example002_Hello_User.AssemblyInfo.cs
+/home/nic/Рабочий стол/C#/Examples/Example002_Hello_User/obj/Debug/net6.0/Example002_Hello_User.csproj.CoreCompileInputs.cache
+/home/nic/Рабочий стол/C#/Examples/Example002_Hello_User/obj/Debug/net6.0/Example002_Hello_User.dll
+/home/nic/Рабочий стол/C#/Examples/Example002_Hello_User/obj/Debug/net6.0/refint/Example002_Hello_User.dll
+/home/nic/Рабочий стол/C#/Examples/Example002_Hello_User/obj/Debug/net6.0/Example002_Hello_User.pdb
+/home/nic/Рабочий стол/C#/Examples/Example002_Hello_User/obj/Debug/net6.0/Example002_Hello_User.genruntimeconfig.cache
+/home/nic/Рабочий стол/C#/Examples/Example002_Hello_User/obj/Debug/net6.0/ref/Example002_Hello_User.dll
